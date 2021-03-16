@@ -5,4 +5,4 @@ RUN apk --no-cache add ca-certificates
 COPY ./mandrill-prometheus-exporter .
 ENTRYPOINT ["./mandrill-prometheus-exporter"]
 
-EXPOSE 9153
+EXPOSE 9861
