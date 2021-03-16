@@ -1,6 +1,6 @@
-module gitlab.com/rentberry/rentberry/services/mandrill-prometheus-exporter
+module github.com/rentberry/mandrill-prometheus-exporter
 
-go 1.15
+go 1.16
 
 require (
 	github.com/kelseyhightower/envconfig v1.4.0
